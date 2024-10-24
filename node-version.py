@@ -13,7 +13,7 @@ sender = "alert@instanodes.io"
 recipient = "kumar.ashwani@antiersolutions.com,mmashwani22@gmail.com"
 
 # Base directory where the repositories should be cloned
-base_dir = "/home/ant/nodes"
+base_dir = "/home/$USER/nodes"
 
 # Repository details
 repos = {
